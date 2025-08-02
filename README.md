@@ -22,10 +22,10 @@
 
 ---
 
-### 📌 Projects (Live Soon on Portfolio)
+### 📌 Projects
 <!-- Add links here later if needed -->
-- Job Portal (React + Tailwind)
-- E-commerce Store (React + Redux + Tailwind)
+- Job Portal (React + Tailwind + React i18next): [https://job-portal-website-project.vercel.app/](https://job-portal-website-project.vercel.app/)
+- E-commerce Store (React + Redux + Tailwind): [https://smh-clothing.vercel.app/](https://smh-clothing.vercel.app/)
 
 ---
 
