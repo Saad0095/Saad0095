@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Saad Bin Khalid 👋</h1>
 
 <p align="center">
-  🎓 BCIT Student at <strong>NED University of Engineering & Technology</strong><br/>
+  🎓 CSIT Student at <strong>NED University of Engineering & Technology</strong><br/>
   💻 Full Stack MERN Developer | AI Enthusiast<br/>
   📍 Based in Karachi, Pakistan | Open to onsite + remote opportunities
 </p>
