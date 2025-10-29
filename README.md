@@ -27,7 +27,6 @@
 - **Leaders Tax Collection CRM (MERN, Full Stack)** → Role-based dashboards (Admin, Karachi Agent, Dubai Agent), leads management, authentication, notifications (in-app), file uploads, clean UI.
 - **Leadsrift Website (React + Tailwind + Framer Motion)** → Animated agency landing page with React, Framer Motion, and Tailwind CSS featuring smooth transitions, modern UI, and performance optimization.
 - **UniConnect (React + Tailwind)** → Student Admission Portal with role-based authentication & dashboards.  
-- **SMH Clothing (React + Redux + Tailwind)** → E-commerce fashion store with theme toggle, cart & checkout flow.  
 - **VidStream (React + Rapid API)** → YouTube-like app with video search & playback.  
 - **Job Portal (React + Tailwind + React i18next)** → Multi-language job listing platform.  
 
