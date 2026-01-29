@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Languages:** HTML, CSS, JavaScript, TypeScript, C/C++, Python
 - **Frontend:** React.js, Tailwind CSS, ShadCn, Bootstrap, Framer Motion, Redux  
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB  
