@@ -3,7 +3,7 @@
 <p align="center">
   🎓 CSIT Student at <strong>NED University of Engineering & Technology</strong><br/>
   💻 Full Stack MERN Developer | AI Enthusiast<br/>
-  📍 Based in Karachi, Pakistan | Open to onsite + remote opportunities
+  📍 Based in Karachi, Pakistan | Open to onsite + remote opportunities<br/>
   🏢 Founder of Devphic — https://devphic.com  
 </p>
 
