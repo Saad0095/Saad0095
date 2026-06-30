@@ -1,46 +1,166 @@
-<h1 align="center">Hi, I'm Muhammad Saad Bin Khalid 👋</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Saad Bin Khalid</h1>
+
+<h3 align="center">
+Full Stack MERN Developer • AI Engineering Learner • Founder of Devphic
+</h3>
 
 <p align="center">
-  🎓 CSIT Student at <strong>NED University of Engineering & Technology</strong><br/>
-  💻 Full Stack MERN Developer | AI Enthusiast<br/>
-  🏢 Founder of Devphic — https://devphic.com<br/>  
-  📍 Based in Karachi, Pakistan | Open to onsite + remote opportunities
+🎓 BS CSIT Student at <strong>NED University of Engineering & Technology</strong> (CGPA: 3.87)<br/>
+💻 Passionate about building scalable web applications & modern user experiences<br/>
+🚀 Currently exploring AI Engineering, LLMs, and intelligent software systems
 </p>
 
 ---
 
-### 🚀 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, TypeScript, C/C++, Python
-- **Frontend:** React.js, Next.js, Tailwind CSS, ShadCn, Bootstrap, Framer Motion, Redux  
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB  
-- **Tools & Platforms:** Git & GitHub, Vercel, Render, Figma  
+## 🚀 About Me
+
+- 💼 Founder of **Devphic** — https://devphic.com
+- 🌍 Based in Karachi, Pakistan
+- 💻 Full Stack MERN Developer
+- 🤖 Learning AI Engineering & Large Language Models
+- 📱 Basic React Native Developer
+- 🎯 Interested in SaaS, CRM Systems, AI Applications & Modern Web Platforms
+- 📫 Reach me at **saadbinkhalid1895@gmail.com**
 
 ---
 
-### 🧠 Currently Learning
-- Advanced Backend Development   
-- Exploring AI & Machine Learning basics  
+# 💻 Tech Stack
+
+### Languages
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- C
+- C++
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Redux Toolkit
+- Framer Motion
+- Shadcn UI
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+- Socket.IO
+- JWT
+- Multer
+- Nodemailer
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- Render
+- Postman
+- Figma
+- VS Code
 
 ---
 
-### 📌 Featured Projects
-- **Leaders Tax Collection CRM (MERN, Full Stack)** → Role-based dashboards (Admin, Karachi Agent, Dubai Agent), leads management, authentication, notifications (in-app), file uploads, clean UI.
-- **Leadsrift Website (React + Tailwind + Framer Motion)** → Animated agency landing page with React, Framer Motion, and Tailwind CSS featuring smooth transitions, modern UI, and performance optimization.
-- **UniConnect (React + Tailwind)** → Student Admission Portal with role-based authentication & dashboards.  
-- **VidStream (React + Rapid API)** → YouTube-like app with video search & playback.  
-- **Job Portal (React + Tailwind + React i18next)** → Multi-language job listing platform.  
+# 🚀 Featured Projects
+
+## 🏢 Cleanmeets CRM
+> Full Stack MERN CRM with Power Dialer & Lead Management
+
+- Role-based authentication
+- Campaign management
+- Lead assignment
+- Real-time Socket.IO updates
+- Twilio integration
+- CSV imports
+- Callback scheduling
 
 ---
 
-### 📫 Contact Me
-- **Email:** saadbinkhalid1895@gmail.com  
-- **LinkedIn:** [linkedin.com/in/saad-bin-khalid-b077b8243](https://www.linkedin.com/in/saad-bin-khalid-b077b8243)  
-- **Portfolio:** [saaddev-portfolio.vercel.app](https://saaddev-portfolio.vercel.app)  
-- **GitHub:** [github.com/Saad0095](https://github.com/Saad0095)  
+## 🌐 Cleanmeets Website
+Premium landing page for a US appointment-setting agency.
+
+**Tech**
+- React
+- Tailwind CSS
+- Framer Motion
+
+Features:
+- Conversion-focused UI
+- Premium animations
+- Testimonials
+- Pricing
+- FAQ
+- Contact forms
+
+---
+
+## 💼 Leaders Tax Collection CRM
+
+Enterprise CRM built using MERN.
+
+Features:
+
+- Admin Dashboard
+- Karachi & Dubai Agent Dashboards
+- Lead Management
+- Notifications
+- Authentication
+- File Uploads
+- Protected Routes
+
+---
+
+## 🎓 UniConnect
+
+Student Admission Portal.
+
+- Role-based authentication
+- Dashboards
+- API Integration
+- Responsive UI
+
+---
+
+## 🌍 Job Portal
+
+Multilingual Job Portal.
+
+- React
+- Tailwind
+- React-i18next
+
+Supports English & Urdu.
+
+---
+
+# 🌱 Currently Learning
+
+- AI Engineering
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Agents
+- Machine Learning Fundamentals
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Portfolio: https://saaddev-portfolio.vercel.app
+- 🏢 Agency: https://devphic.com
+- 💼 LinkedIn: https://linkedin.com/in/saad-bin-khalid-b077b8243
+- 💻 GitHub: https://github.com/Saad0095
+- 📧 Email: saadbinkhalid1895@gmail.com
 
 ---
 
 <p align="center">
-  ⚡ Passionate about building clean, scalable apps & growing as a Full Stack Developer!
+⭐ If you like my work, consider starring my repositories!
 </p>
