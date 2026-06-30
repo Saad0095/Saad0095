@@ -12,16 +12,6 @@ Full Stack MERN Developer • AI Engineering Learner • Founder of Devphic
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Saad0095&color=blue)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saad-bin-khalid-b077b8243)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://saaddev-portfolio.vercel.app)
-
-[![Devphic](https://img.shields.io/badge/Devphic-111827?style=for-the-badge)](https://devphic.com)
-
----
-
 ## 🚀 About Me
 
 - 💼 Founder of **Devphic** — https://devphic.com
@@ -170,12 +160,6 @@ Supports English & Urdu.
 - 📧 Email: saadbinkhalid1895@gmail.com
 
 ---
-
-## 📊 GitHub Stats
-
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saad0095&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad0095&layout=compact&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saad0095&theme=github-dark)
 
