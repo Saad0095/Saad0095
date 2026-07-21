@@ -97,7 +97,7 @@
 ---
 
 #### 🌐 Cleanmeets Website
-Premium landing page for a US appointment-setting agency.
+> Premium landing page for a US appointment-setting agency.
 
 **Tech**
 - React
@@ -116,7 +116,7 @@ Features:
 
 #### 💼 Leaders Tax Collection CRM
 
-Enterprise CRM built using MERN.
+> Enterprise CRM built using MERN.
 
 Features:
 
