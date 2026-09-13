@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Muhammad Saad Bin Khalid 👋</h1>
-<h3 align="center">Full Stack MERN Developer • Founder @ Devphic • AI Engineering Learner</h3>
+<!-- <h3 align="center">Full Stack MERN Developer • Founder @ Devphic • AI Engineering Learner</h3> -->
+<h3 align="center">Full Stack MERN Developer</h3>
  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=43CBDD&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN;Founder+of+Devphic+%E2%80%94+devphic.com;Open+to+freelance+%26+remote+contracts;Exploring+AI+Engineering+%26+LLMs" alt="Typing SVG" />
@@ -143,7 +144,7 @@ Features:
  
 ### 🌱 Currently Learning
  
-`AI Engineering` · `Large Language Models (LLMs)` · `Prompt Engineering` · `AI Agents` · `RAG & LangGraph` · `Machine Learning Fundamentals`
+`Data Structures and Algorithms` · `AI Engineering` · `Large Language Models (LLMs)` · `Prompt Engineering` · `AI Agents` · `RAG & LangGraph` · `Machine Learning Fundamentals`
  
 ---
 
