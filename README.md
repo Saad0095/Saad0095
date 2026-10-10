@@ -17,7 +17,7 @@
 ### 🚀 About Me
  
 - 🎓 BS CSIT student at **NED University of Engineering & Technology** (Batch 2025) — CGPA **3.87**
-- 💼 Founder of **[Devphic](https://devphic.com)** — a digital agency building modern web platforms on Next.js
+- 💼 Founder of **[Devphic](https://devphic.com)** — a digital agency building modern web platforms 
 - 🌍 Based in Karachi, Pakistan — actively taking on **freelance & remote contracts**
 - 🧠 Currently deepening skills in **AI Engineering**: LLMs, RAG, prompt engineering, and AI agents
 - 🛠️ Building and shipping full-stack products end to end — from CRM backends to conversion-focused marketing sites
